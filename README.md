@@ -4,8 +4,7 @@
 
 ---
 
-🌟 **About Me**
-
+🌟### About Me ###
 
   🎓**2nd-year student** at Benha Faculty of Computers and Artificial Intelligence (2023–2027)  
   🧠**I’m passionate about exploring all areas of software engineering and continuously expanding my technical skills.**
