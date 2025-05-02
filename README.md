@@ -19,25 +19,25 @@
 
 🏆**Experience & Involvement**
 
-   🎯 ECPC (Egyptian Collegiate Programming Contest) – Alexandria
+   -🎯 ECPC (Egyptian Collegiate Programming Contest) – Alexandria
      - Participated in a high-pressure coding competition, solving complex challenges within strict time limits
      - Enhanced problem-solving abilities and strengthened teamwork skills
   
-  📊 Data Science Bootcamp – GDG (2025)
+  -📊 Data Science Bootcamp – GDG (2025)
     - Built machine learning models and visualized data with **Power BI**
     - Analyzed real-world datasets using **Python**, **Pandas**, and **NumPy**
    
-  🔒 Cybersecurity Bootcamp – GDG (2025)
+  -🔒 Cybersecurity Bootcamp – GDG (2025)
     - Executed penetration testing and vulnerability assessments using Wireshark and Nmap
     - Competed in CTF challenges as part of a team, to improve teamwork skills
     - Deepened knowledge of network security protocols and threat mitigation strategies
   
-  💼 Frontend Bootcamp – GDG (2024)
+  -💼 Frontend Bootcamp – GDG (2024)
     - Gained hands-on experience and participated in the **final competition**
     - Built responsive web interfaces using HTML, CSS.
     - Applied modern design principles and interactive UI techniques
   
-  🧠 CAREER EXPLORER Bootcamp – Soft Skills (2024)
+  -🧠 CAREER EXPLORER Bootcamp – Soft Skills (2024)
     - Enhanced **communication**, **teamwork**, and **time management** skills
 
 ---
