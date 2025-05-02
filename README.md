@@ -4,7 +4,7 @@
 
 ---
 
-🌟 About Me
+🌟**About Me: **
   - 🎓 2nd-year student at Benha Faculty of Computers and Artificial Intelligence (2023–2027).
   - 💡 Passionate about programming, data science, and innovation.
   - 📊 Skilled in data analysis, extracting insights, and exploring machine learning techniques.
