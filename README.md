@@ -35,10 +35,6 @@
 🧠 CAREER EXPLORER Bootcamp – Soft Skills (2024)
   - Enhanced **communication**, **teamwork**, and **time management** skills
 
-🧪 CODEAVOUR 5.0 – Judge
-  - Contributed as a judge in a national-level competition for creative student tech projects
-  - Improved **communication**, **collaboration**, and **efficiency**
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -58,7 +54,6 @@
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
   ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
   ![Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoftword&logoColor=white)
   ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
   ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
