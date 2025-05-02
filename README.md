@@ -6,12 +6,14 @@
 
 🌟 About Me
 
+
   🎓**2nd-year student** at Benha Faculty of Computers and Artificial Intelligence (2023–2027)  
+  🧠**I’m passionate about exploring all areas of software engineering and continuously expanding my technical skills.**
   💡 Passionate about **programming**, **data science**, and **innovation**  
   📊 Skilled in **analyzing data**, extracting insights, and exploring **machine learning techniques**  
+  🌱 Continuously improving my skills in **C++, Python, Java, OOP, SQL, HTML, CSS, and MIPS Assembly**
   🧠 Strong problem-solving skills with a **creative mindset** and a solid foundation in **algorithms**  
   🤝 Active **IEEE BUB Member** – Public Relations Committee: Promoting events and enhancing tech outreach  
-  🌱 Continuously improving my skills in **C++, Python, Java, OOP, SQL, HTML, CSS, and MIPS Assembly**
   💼 Strong soft skills that support both **individual and team success** 
 ---
 
@@ -40,7 +42,6 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
 ### **Languages & Tools**
 - **Programming Languages**:  
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -62,11 +63,11 @@
   ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
 
-### **Languages**
+## Languages
 - 🇦🇪 **Arabic** – Excellent  
 - 🇬🇧 **English** – Very Good  
 - 🇫🇷 **French** – Elementary  
-- 🇹🇷 **Turkish** – Elementary  
+- 🇹🇷 **Turkish** – Elementary   
 
 ---
 
