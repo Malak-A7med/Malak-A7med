@@ -7,7 +7,7 @@
 ## 🌟 About Me
 🎓**2nd-year student** at Benha Faculty of Computers and Artificial Intelligence (2023–2027)  
 💡 Passionate about **programming**, **data science**, and **innovation**  
-🌱Strong soft skills that support both **individual and team success**
+🌱 Strong soft skills that support both **individual and team success**
 📊 Skilled in **analyzing data**, extracting insights, and exploring **machine learning techniques**  
 🧠 Strong problem-solving skills with a **creative mindset** and a solid foundation in **algorithms**  
 🤝 Active **IEEE BUB Member** – Public Relations Committee: Promoting events and enhancing tech outreach  
@@ -32,6 +32,8 @@
 
 💼 Frontend Bootcamp – GDG (2024)
   - Gained hands-on experience and participated in the **final competition**
+  - Built responsive web interfaces using HTML, CSS.
+  - Applied modern design principles and interactive UI techniques
 
 🧠 CAREER EXPLORER Bootcamp – Soft Skills (2024)
   - Enhanced **communication**, **teamwork**, and **time management** skills
