@@ -25,9 +25,9 @@
   - Analyzed real-world datasets using **Python**, **Pandas**, and **NumPy**
  
 🔒 Cybersecurity Bootcamp – GDG (2025)
-    Executed penetration testing and vulnerability assessments using Wireshark and Nmap
-    Competed in CTF challenges as part of a team, to improve teamwork skills
-    Deepened knowledge of network security protocols and threat mitigation strategies
+  - Executed penetration testing and vulnerability assessments using Wireshark and Nmap
+  - Competed in CTF challenges as part of a team, to improve teamwork skills
+  - Deepened knowledge of network security protocols and threat mitigation strategies
 
 💼 Frontend Bootcamp – GDG (2024)
   - Gained hands-on experience and participated in the **final competition**
