@@ -1,4 +1,4 @@
- 👋 Hi Programmers, I'm Malak Ahmed Samih!
+👋 Hi Programmers, I'm Malak Ahmed Samih!
 
 🚀 **Software Engineer Enthusiast | Data Science Explorer | Problem Solver | IEEE BUB PR Member**
 
@@ -10,13 +10,13 @@
 📊 Skilled in **analyzing data**, extracting insights, and exploring **machine learning techniques**  
 🧠 Strong problem-solving skills with a **creative mindset** and a solid foundation in **algorithms**  
 🤝 Active **IEEE BUB Member** – Public Relations Committee: Promoting events and enhancing tech outreach  
-🌱 Continuously improving my skills in **C++, Python, Java, OOP, SQL, HTML, CSS, and JavaScript**
+🌱 Continuously improving my skills in **C++, Python, Java, OOP, SQL, HTML, CSS, and MIPS Assembly**
 
 ---
 
 🏆 Experience & Involvement
 
-🎯 ECPC (Egyptian Collegiate Programming Contest)  – Alexandria
+🎯 ECPC (Egyptian Collegiate Programming Contest) – Alexandria
   - Participated in a high-pressure coding competition, solving complex challenges within strict time limits
   - Enhanced problem-solving abilities and strengthened teamwork skills
 
@@ -49,11 +49,10 @@
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+  ![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-008080?style=flat)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 - **Design & Analytics Tools**:  
-  ![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-008080?style=flat)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
   ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
@@ -81,5 +80,3 @@
 ---
 
 ✨ _"Always open to learning, growing, and solving real-world problems through tech!"_ 🚀
-
-
