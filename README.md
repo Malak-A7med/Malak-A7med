@@ -19,48 +19,48 @@
 
 🏆 Experience & Involvement
 
-🎯 ECPC (Egyptian Collegiate Programming Contest) – Alexandria
-  - Participated in a high-pressure coding competition, solving complex challenges within strict time limits
-  - Enhanced problem-solving abilities and strengthened teamwork skills
-
-📊 Data Science Bootcamp – GDG (2025)
-  - Built machine learning models and visualized data with **Power BI**
-  - Analyzed real-world datasets using **Python**, **Pandas**, and **NumPy**
- 
-🔒 Cybersecurity Bootcamp – GDG (2025)
-  - Executed penetration testing and vulnerability assessments using Wireshark and Nmap
-  - Competed in CTF challenges as part of a team, to improve teamwork skills
-  - Deepened knowledge of network security protocols and threat mitigation strategies
-
-💼 Frontend Bootcamp – GDG (2024)
-  - Gained hands-on experience and participated in the **final competition**
-  - Built responsive web interfaces using HTML, CSS.
-  - Applied modern design principles and interactive UI techniques
-
-🧠 CAREER EXPLORER Bootcamp – Soft Skills (2024)
-  - Enhanced **communication**, **teamwork**, and **time management** skills
+  🎯 ECPC (Egyptian Collegiate Programming Contest) – Alexandria
+    - Participated in a high-pressure coding competition, solving complex challenges within strict time limits
+    - Enhanced problem-solving abilities and strengthened teamwork skills
+  
+  📊 Data Science Bootcamp – GDG (2025)
+    - Built machine learning models and visualized data with **Power BI**
+    - Analyzed real-world datasets using **Python**, **Pandas**, and **NumPy**
+   
+  🔒 Cybersecurity Bootcamp – GDG (2025)
+    - Executed penetration testing and vulnerability assessments using Wireshark and Nmap
+    - Competed in CTF challenges as part of a team, to improve teamwork skills
+    - Deepened knowledge of network security protocols and threat mitigation strategies
+  
+  💼 Frontend Bootcamp – GDG (2024)
+    - Gained hands-on experience and participated in the **final competition**
+    - Built responsive web interfaces using HTML, CSS.
+    - Applied modern design principles and interactive UI techniques
+  
+  🧠 CAREER EXPLORER Bootcamp – Soft Skills (2024)
+    - Enhanced **communication**, **teamwork**, and **time management** skills
 
 ---
 
 ### **Languages & Tools**
-- **Programming Languages**:  
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  ![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-008080?style=flat)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-- **Design & Analytics Tools**:  
-  ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-  ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
-  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-  ![Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoftword&logoColor=white)
-  ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-  ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+  - **Programming Languages**:  
+    ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+    ![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-008080?style=flat)
+    ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+  
+  - **Design & Analytics Tools**:  
+    ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+    ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+    ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+    ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+    ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+    ![Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoftword&logoColor=white)
+    ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+    ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
 
 ## Languages
