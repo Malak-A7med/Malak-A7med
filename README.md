@@ -73,7 +73,7 @@
 
 ## 📬 Let’s Connect
 - 💻 **GitHub**: [Malak Ahmed](https://github.com/Malak-A7med)  
-- 🔗 **LinkedIn**: [LinkedIn Profile](#)  
+- 🔗 **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/malak-a7med)  
 - 📧 **Email**: [malak.21720@gmail.com](mailto:malak.21720@gmail.com)
 
 ---
