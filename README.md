@@ -5,8 +5,9 @@
 ---
 
 ## 🌟 About Me
-🎓 **2nd-year student** at Benha Faculty of Computers and Artificial Intelligence (2023–2027)  
+🎓**2nd-year student** at Benha Faculty of Computers and Artificial Intelligence (2023–2027)  
 💡 Passionate about **programming**, **data science**, and **innovation**  
+🌱Strong soft skills that support both individual and team success.
 📊 Skilled in **analyzing data**, extracting insights, and exploring **machine learning techniques**  
 🧠 Strong problem-solving skills with a **creative mindset** and a solid foundation in **algorithms**  
 🤝 Active **IEEE BUB Member** – Public Relations Committee: Promoting events and enhancing tech outreach  
@@ -58,13 +59,6 @@
   ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
   ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
-### **Soft Skills**
-- Teamwork  
-- Communication  
-- Creativity  
-- Research  
-- Stress Management  
-- Time Management  
 
 ### **Languages**
 - 🇦🇪 **Arabic** – Excellent  
