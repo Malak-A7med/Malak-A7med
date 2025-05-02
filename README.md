@@ -17,8 +17,8 @@
 🏆 Experience & Involvement
 
 🎯 ECPC (Egyptian Collegiate Programming Contest)  – Alexandria
-  - Solved complex coding challenges under pressure as part of the *Egyptian Collegiate Programming Contest*
-  - Enhanced coding logic and teamwork
+  - Participated in a high-pressure coding competition, solving complex challenges within strict time limits
+  - Enhanced problem-solving abilities and strengthened teamwork skills
 
 📊 Data Science Bootcamp – GDG (2025)
   - Built machine learning models and visualized data with **Power BI**
