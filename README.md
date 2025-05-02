@@ -1,10 +1,6 @@
-بالطبع! إليك نسخة محسنة لملف `README.md` الخاص بك بناءً على التنسيق الذي طلبته مع الحفاظ على بياناتك الشخصية:
+ 👋 Hi Programmers, I'm Malak Ahmed Samih!
 
----
-
-# 👋 Hi Programmers, I'm Malak Ahmed Samih!
-
-🚀 **Computer Science Enthusiast | Data Science Explorer | Problem Solver | IEEE BUB PR Member**
+🚀 **Software Engineer Enthusiast | Data Science Explorer | Problem Solver | IEEE BUB PR Member**
 
 ---
 
