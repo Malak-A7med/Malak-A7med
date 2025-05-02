@@ -1,79 +1,91 @@
-# 👋 Hello, I'm Malak Ahmed Samih
-
-🎓 **Computer Science & AI Student**  
-📍 **Benha University – Faculty of Computers & Artificial Intelligence**  
-🗓 **Born on July 21, 2005**  
-🌱 **Currently a 2nd-year student passionate about tech and development**  
+بالطبع! إليك نسخة محسنة لملف `README.md` الخاص بك بناءً على التنسيق الذي طلبته مع الحفاظ على بياناتك الشخصية:
 
 ---
 
-## 💻 About Me
-I'm deeply interested in programming and information technology. My goal is to become a creative and skilled professional in the tech industry. I love learning new technologies, solving problems, and working in team environments that challenge and grow my skills.
+# 👋 Hi Programmers, I'm Malak Ahmed Samih!
+
+🚀 **Computer Science Enthusiast | Data Science Explorer | Problem Solver | IEEE BUB PR Member**
 
 ---
 
-## 📚 Education
-**Faculty of Computer Science & Artificial Intelligence, Benha University**  
-**Duration**: Oct 2023 – Aug 2025  
+## 🌟 About Me
+🎓 **2nd-year student** at Benha Faculty of Computers and Artificial Intelligence (2023–2027)  
+💡 Passionate about **programming**, **data science**, and **innovation**  
+📊 Skilled in **analyzing data**, extracting insights, and exploring **machine learning techniques**  
+🧠 Strong problem-solving skills with a **creative mindset** and a solid foundation in **algorithms**  
+🤝 Active **IEEE BUB Member** – Public Relations Committee: Promoting events and enhancing tech outreach  
+🌱 Continuously improving my skills in **C++, Python, Java, OOP, SQL, HTML, CSS, and JavaScript**
 
 ---
 
-## 💡 Skills
+🏆 Experience & Involvement
 
-### 🧠 Soft Skills
-- Teamwork & Collaboration  
-- Research & Time Management  
-- Problem Solving (Levels 0 & 1)  
-- Communication  
-- Working under stress  
-- Creativity  
+🎯 ECPC (Egyptian Collegiate Programming Contest)  – Alexandria
+  - Solved complex coding challenges under pressure as part of the *Egyptian Collegiate Programming Contest*
+  - Enhanced coding logic and teamwork
 
-### 🛠️ Technical Skills
-- **Languages**:  
+📊 Data Science Bootcamp – GDG (2025)
+  - Built machine learning models and visualized data with **Power BI**
+  - Analyzed real-world datasets using **Python**, **Pandas**, and **NumPy**
+ 
+🔒 Cybersecurity Bootcamp – GDG (2025)
+    Executed penetration testing and vulnerability assessments using Wireshark and Nmap
+    Competed in CTF challenges as part of a team, to improve teamwork skills
+    Deepened knowledge of network security protocols and threat mitigation strategies
+
+💼 Frontend Bootcamp – GDG (2024)
+  - Gained hands-on experience and participated in the **final competition**
+
+🧠 CAREER EXPLORER Bootcamp – Soft Skills (2024)
+  - Enhanced **communication**, **teamwork**, and **time management** skills
+
+🧪 CODEAVOUR 5.0 – Judge
+  - Contributed as a judge in a national-level competition for creative student tech projects
+  - Improved **communication**, **collaboration**, and **efficiency**
+
+---
+
+## 🛠️ Tech Stack & Tools
+### **Languages & Tools**
+- **Programming Languages**:  
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-- **Tools**:  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+
+- **Design & Analytics Tools**:  
+  ![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-008080?style=flat)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
   ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-  ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat&logo=microsoftword&logoColor=white)
-  ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-  ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)  
-- **Problem Solving**:  
-  ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)  
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+### **Soft Skills**
+- Teamwork  
+- Communication  
+- Creativity  
+- Research  
+- Stress Management  
+- Time Management  
+
+### **Languages**
+- 🇦🇪 **Arabic** – Excellent  
+- 🇬🇧 **English** – Very Good  
+- 🇫🇷 **French** – Elementary  
+- 🇹🇷 **Turkish** – Elementary  
 
 ---
 
-## 🌍 Languages
-- 🇦🇪 **Arabic** – ![Arabic](https://img.shields.io/badge/-Excellent-blue)  
-- 🇬🇧 **English** – ![English](https://img.shields.io/badge/-Very%20Good-brightgreen)  
-- 🇫🇷 **French** – ![French](https://img.shields.io/badge/-Good-yellow)  
-- 🇹🇷 **Turkish** – ![Turkish](https://img.shields.io/badge/-Elementary-orange)  
-
----
-
-## 🏆 Events & Bootcamps
-- 🧠 **Career Explorer Bootcamp (Soft Skills)** – 5 days, 2024  
-- 🧑‍💻 **GDSC Frontend Bootcamp** – 2024 (and participated in its competition)  
-- 🎮 **Knight’s Quest Event** – ITI  
-- 👩‍⚖️ **Codeavour 5.0 Competition** – Judge  
-- 🤝 **Member of BFCAI ACPC Club for Problem Solving**  
-- 🧮 **Participated in ECPC Problem Solving Competition**, Alexandria  
-
----
-
-## 📚 Certifications
-- ✅ **Google Digital Marketing** – 40 Hours  
-- ✅ **Microsoft Applications**  
-
----
-
-## 📬 Contact Me
-- 📞 **Phone**: 01229363075 / 01032625851  
-- 📧 **Email**: [malak.21720@gmail.com](mailto:malak.21720@gmail.com)  
+## 📬 Let’s Connect
+- 💻 **GitHub**: [Malak Ahmed](https://github.com/Malak-A7med)  
 - 🔗 **LinkedIn**: [LinkedIn Profile](#)  
-- 💻 **GitHub**: [Malak-Ahmed217](https://github.com/Malak-Ahmed217)  
+- 📧 **Email**: [malak.21720@gmail.com](mailto:malak.21720@gmail.com)
 
 ---
 
-✨ _"Passionate about turning ideas into reality through code."_ ✨
+✨ _"Always open to learning, growing, and solving real-world problems through tech!"_ 🚀
+
+---
+
+يمكنك نسخ هذا النص ولصقه في ملف `README.md` الخاص بك لجعله أكثر جاذبية وتنظيمًا. إذا كنت تريد أي تعديلات إضافية، أنا هنا للمساعدة! 😊
