@@ -1,8 +1,6 @@
 # 👋 Hi Programmers, I'm Malak Ahmed Samih!
 
-
-
-
+--
   🚀 **Software Engineer Enthusiast | Data Science Explorer | Problem Solver | IEEE BUB PR Member**
 
 ---
@@ -80,4 +78,4 @@
 
 ---
 
-✨ _"Always open to learning, growing, and solving real-world problems through tech!"_ 🚀
+✨ _Always open to learning, growing, and solving real-world problems through tech!_ 🚀
