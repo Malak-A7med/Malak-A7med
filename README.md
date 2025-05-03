@@ -1,9 +1,6 @@
 <div align="center">
-
-## 👋 Hi Programmers, I'm Malak Ahmed Samih!
-
-<br>
-
+  
+## 👋 Hi Programmers, I'm Malak Ahmed Samih!<br>
 ### 🚀 Software Engineer Enthusiast | Data Science Explorer | Problem Solver | IEEE BUB PR Member
 
 </div>
@@ -12,10 +9,10 @@
 
 🌟 **About Me :**
   - 🎓 2nd-year student at Benha Faculty of Computers and Artificial Intelligence (2023–2027).
-  - 💡 Passionate about Software Engineering, data science, CP, and expanding my skills in various fields.
+  - 💡 Passionate about Software Engineering, data science, and expanding my skills in various fields.
   - 📊 Interested in Web development, data Science, extracting insights, and exploring machine learning techniques.
   - 🌱 Continuously improving skills in C++, Python, Java, OOP, SQL, HTML, CSS, and MIPS Assembly.
-  - 🧠 Strong problem-solving skills with a creative mindset and a solid foundation in algorithms.
+  - 🧠 Competitive Programmer with Strong problem-solving skills with a creative mindset and a solid foundation in algorithms.
   - 🤝 Active IEEE BUB Member – Public Relations Committee: Promoting events and enhancing tech outreach.
   - 💼 Strong soft skills that support both individual and team success.
 
