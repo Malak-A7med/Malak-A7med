@@ -1,6 +1,8 @@
 <div align="center">
-👋 Hi Programmers, I'm Malak Ahmed Samih!
+#👋 Hi Programmers, I'm Malak Ahmed Samih!
 </div>
+
+<br><br>
 
   🚀 **Software Engineer Enthusiast | Data Science Explorer | Problem Solver | IEEE BUB PR Member**
 
