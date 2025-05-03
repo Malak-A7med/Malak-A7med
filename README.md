@@ -1,7 +1,7 @@
 <div align="center">
   
 ## 👋 Hi Programmers, I'm Malak Ahmed Samih!<br>
-### 🚀 Software Engineer Enthusiast | Data Science Explorer | Problem Solver | IEEE BUB PR Member
+### 🚀 Software Engineer Enthusiast | Data Science Explorer | Competitive Programmer | IEEE BUB PR Member
 
 </div>
 
