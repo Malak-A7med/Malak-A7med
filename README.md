@@ -54,7 +54,7 @@
     ![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-008080?style=flat)
     ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
   
-  - **Design & Analytics Tools**:
+  - **Design & Analytics Tools**: 
     ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
     ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
     ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
