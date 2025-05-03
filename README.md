@@ -77,6 +77,7 @@
 ---
 
 ## 📬 Let’s Connect
+- 🌐 **Codeforces**: [Malak_Ahmed217](https://codeforces.com/profile/Malak_Ahmed217)
 - 💻 **GitHub**: [Malak Ahmed](https://github.com/Malak-A7med)  
 - 🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/malak-a7med)  
 - 📧 **Email**: [malak.21720@gmail.com](mailto:malak.21720@gmail.com)
