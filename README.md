@@ -8,7 +8,7 @@
 ---
 
 🌟 **About Me :**
-  - 🎓 2nd-year student at Benha Faculty of Computers and Artificial Intelligence (2023–2027).
+  - 🎓 3th-year student at Benha Faculty of Computers and Artificial Intelligence (2023–2027).
   - 💡 Passionate about Software Engineering, data science, and expanding my skills in various fields.
   - 📊 Interested in Web development, data Science, extracting insights, and exploring machine learning techniques.
   - 🌱 Continuously improving skills in C++, Python, Java, OOP, SQL, HTML, CSS, and MIPS Assembly.
