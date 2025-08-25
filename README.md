@@ -1,17 +1,17 @@
 <div align="center">
   
 ## 👋 Hi Programmers, I'm Malak Ahmed Samih!<br>
-### 🚀 Software Engineer Enthusiast | Data Science Explorer | Competitive Programmer | IEEE BUB PR Member
+### 🚀 Junior Data Analyst & Data Science Trainee at DEPI | Competitive Programmer IEEE BUB PR Member
 
 </div>
 
 ---
 
 🌟 **About Me :**
-  - 🎓 3th-year student at Benha Faculty of Computers and Artificial Intelligence (2023–2027).
-  - 💡 Passionate about Software Engineering, data science, and expanding my skills in various fields.
-  - 📊 Interested in Web development, data Science, extracting insights, and exploring machine learning techniques.
-  - 🌱 Continuously improving skills in C++, Python, Java, OOP, SQL, HTML, CSS, and MIPS Assembly.
+  - 🎓 3rd-year student at Benha Faculty of Computers and Artificial Intelligence (2023–2027).
+  - 💡 Passionate about data analysis, data science, and software engineering.
+  - 📊 Currently a Junior Data Analyst & Data Science Trainee at **DEPI**, gaining hands-on experience with real-world data projects.
+  - 🌱 Continuously improving skills in C++, Python, Java, OOP, SQL, HTML, CSS, and MIPS Assembly, Power BI.
   - 🧠 Competitive Programmer with Strong problem-solving skills with a creative mindset and a solid foundation in algorithms.
   - 🤝 Active IEEE BUB Member – Public Relations Committee: Promoting events and enhancing tech outreach.
   - 💼 Strong soft skills that support both individual and team success.
@@ -20,6 +20,11 @@
 ---
 
 🏆 **Experience & Involvement :**
+ - 💼 Data Science Trainee – DEPI
+     - Analyze and visualize business data to extract actionable insights
+     - Build and evaluate machine learning models using Python and relevant libraries
+     - Collaborate with team members on real-world data projects
+     - Present findings and dashboards using Power BI
 
  - 🎯 ECPC (Egyptian Collegiate Programming Contest) – Alexandria
      - Participated in a high-pressure coding competition, solving complex challenges within strict time limits
