@@ -1,7 +1,7 @@
 <div align="center">
   
 ## 👋 Hi Programmers, I'm Malak Ahmed Samih!<br>
-### 🚀 Junior Data Analyst & Data Science Trainee at DEPI | Competitive Programmer IEEE BUB PR Member
+### 🚀 Junior Data Analyst & Data Science Trainee at DEPI | Competitive Programmer | IEEE BUB PR Member
 
 </div>
 
