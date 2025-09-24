@@ -94,10 +94,8 @@
   ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
 ## Languages
-- 🇦🇪 **Arabic** – Excellent  
-- 🇬🇧 **English** – Very Good  
-- 🇫🇷 **French** – Elementary  
-- 🇹🇷 **Turkish** – Elementary   
+- 🇦🇪 **Arabic** – Native
+- 🇬🇧 **English** – B2(Upper-Intermediate)
 
 ---
 
