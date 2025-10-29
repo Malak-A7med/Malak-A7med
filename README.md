@@ -9,7 +9,7 @@
 
 🌟 **About Me :**
   - 🎓 3rd-year student at Benha Faculty of Computers and Artificial Intelligence (2023–2027).
-  - 💡 Passionate about data analysis, data science, and software engineering.
+  - 💡 Passionate about data analysis, data science, and Artificial Intelligence.
   - 📊 Currently a Junior Data Analyst & Data Science Trainee at **DEPI**, gaining hands-on experience with real-world data projects.
   - 🌱 Continuously improving skills in C++, Python, Java, OOP, SQL, HTML, CSS, and MIPS Assembly.
   - 🧠 Competitive Programmer with Strong problem-solving skills with a creative mindset and a solid foundation in algorithms.
