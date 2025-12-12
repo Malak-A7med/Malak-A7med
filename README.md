@@ -108,4 +108,3 @@
 ---
 
 ✨ _Always open to learning, growing, and solving real-world problems through tech!_ 🚀
-ظبطه بس سيب كل الكلام زى ما هو
