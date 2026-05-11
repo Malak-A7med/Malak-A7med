@@ -1,7 +1,7 @@
 <div align="center">
   
 ## 👋 Hi Programmers, I'm Malak Ahmed Samih!<br>
-### 🚀 AI Engineer | Data Science Trainee at DEPI | Competitive Programmer | IEEE BUB PR Member
+### 🚀 AI Engineer | Data Science Trainee at DEPI | Competitive Programmer 
 
 </div>
 
@@ -54,14 +54,12 @@
   <ul>
     <li>Executed penetration testing and vulnerability assessments using Wireshark and Nmap</li>
     <li>Competed in CTF challenges as part of a team, to improve teamwork skills</li>
-    <li>Deepened knowledge of network security protocols and threat mitigation strategies</li>
   </ul>
   
 - 💼 **Frontend Bootcamp – GDG (2024)**
   <ul>
     <li>Gained hands-on experience and participated in the <b>final competition</b></li>
     <li>Built responsive web interfaces using HTML, CSS.</li>
-    <li>Applied modern design principles and interactive UI techniques</li>
   </ul>
       
 - 🧠 **CAREER EXPLORER Bootcamp – Soft Skills (2024)**
