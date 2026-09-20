@@ -1,6 +1,6 @@
 <div align="center">
   
-### 👋 Hi Programmers, I'm Malak Ahmed Samih!<br>
+## 👋 Hi Programmers, I'm Malak Ahmed Samih!<br>
 #### AI & Data Science Student | Generative AI & AI Applications | Data Analyst | Competitive Programmer 
 
 </div>
@@ -18,6 +18,16 @@
 ---
 
 🏆 **Experience & Involvement :**
+- 🤖 **Machine Learning Trainee – NTI (National Telecommunication Institute)**
+  <br>Jun 12 – Aug 2, 2026
+  <ul>
+    <li>Applied data preprocessing, feature engineering, and exploratory data analysis using Python</li>
+    <li>Built and evaluated supervised and unsupervised machine learning models</li>
+    <li>Worked with classification, clustering, and anomaly detection techniques</li>
+    <li>Compared model performance using appropriate evaluation metrics and visualization techniques</li>
+    <li>Developed practical machine learning projects using real-world datasets</li>
+  </ul>
+
 - 💼 **Data Science Trainee – DEPI (Digital Egypt Pioneers Initiative)**
   <br>Jul – Dec 2025 (6 Months)
   <ul>
@@ -34,7 +44,6 @@
     <li>Conduct data cleaning and statistical analysis using Excel & Python</li>
     <li>Work with SQL Server and explore basics of Data Warehousing</li>
     <li>Create interactive dashboards with Power BI and Tableau</li>
-    <li>Apply ML fundamentals on real-world datasets</li>
   </ul>
 
 - 🎯 **ECPC (Egyptian Collegiate Programming Contest) – Alexandria**
@@ -43,27 +52,10 @@
     <li>Enhanced problem-solving abilities and strengthened teamwork skills</li>
   </ul>
   
-- 📊 **Data Science Bootcamp – GDG (2025)**
+- 📊 **Data Science Bootcamp – GDG (Feb 2025)**
   <ul>
     <li>Built machine learning models and visualized data with <b>Power BI</b></li>
     <li>Analyzed real-world datasets using <b>Python</b>, <b>Pandas</b>, and <b>NumPy</b></li>
-  </ul>
-   
-- 🔒 **Cybersecurity Bootcamp – GDG (2025)**
-  <ul>
-    <li>Executed penetration testing and vulnerability assessments using Wireshark and Nmap</li>
-    <li>Competed in CTF challenges as part of a team, to improve teamwork skills</li>
-  </ul>
-  
-- 💼 **Frontend Bootcamp – GDG (2024)**
-  <ul>
-    <li>Gained hands-on experience and participated in the <b>final competition</b></li>
-    <li>Built responsive web interfaces using HTML, CSS.</li>
-  </ul>
-      
-- 🧠 **CAREER EXPLORER Bootcamp – Soft Skills (2024)**
-  <ul>
-    <li>Enhanced <b>communication</b>, <b>teamwork</b>, and <b>time management</b> skills</li>
   </ul>
 
 ---
