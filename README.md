@@ -1,7 +1,7 @@
 <div align="center">
   
 ## 👋 Hi Programmers, I'm Malak Ahmed Samih!<br>
-### 🚀 AI Engineer | Data Science Trainee at DEPI | Competitive Programmer 
+### AI & Data Science Student | Generative AI & AI Applications | Data Analyst | Competitive Programmer 
 
 </div>
 
