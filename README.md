@@ -21,11 +21,10 @@
 - 🤖 **Machine Learning Trainee – NTI (National Telecommunication Institute)**
   <br>Jun 12 – Aug 2, 2026
   <ul>
-    <li>Applied data preprocessing, feature engineering, and exploratory data analysis using Python</li>
-    <li>Built and evaluated supervised and unsupervised machine learning models</li>
-    <li>Worked with classification, clustering, and anomaly detection techniques</li>
-    <li>Compared model performance using appropriate evaluation metrics and visualization techniques</li>
-    <li>Developed practical machine learning projects using real-world datasets</li>
+  <li>Performed data preprocessing, exploratory data analysis, feature engineering, and feature selection to prepare real-world datasets for machine learning.</li>
+  <li>Built, trained, and optimized supervised and unsupervised machine learning models, including classification, clustering, and anomaly detection.</li>
+  <li>Compared and evaluated models using appropriate performance metrics, cross-validation, and visualization techniques to select effective solutions.</li>
+
   </ul>
 
 - 💼 **Data Science Trainee – DEPI (Digital Egypt Pioneers Initiative)**
