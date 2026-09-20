@@ -1,6 +1,6 @@
 <div align="center">
   
-## 👋 Hi Programmers, I'm Malak Ahmed Samih!<br>
+### 👋 Hi Programmers, I'm Malak Ahmed Samih!<br>
 #### AI & Data Science Student | Generative AI & AI Applications | Data Analyst | Competitive Programmer 
 
 </div>
