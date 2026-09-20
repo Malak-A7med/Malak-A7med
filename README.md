@@ -65,6 +65,7 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -86,13 +87,13 @@
   ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat\&logo=canva\&logoColor=white)
 
 
-## Languages
+### Languages
 - 🇦🇪 **Arabic** – Native
 - 🇬🇧 **English** – B2(Upper-Intermediate)
 
 ---
 
-## 📬 Let’s Connect
+### 📬 Let’s Connect
 - 🌐 **Codeforces**: [Malak_Ahmed217](https://codeforces.com/profile/Malak_Ahmed217)
 - 💻 **GitHub**: [Malak Ahmed](https://github.com/Malak-A7med)  
 - 🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/malak-a7med)  
